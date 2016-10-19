@@ -27,5 +27,7 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - minima
 exclude:
+  - Gemfile
   - Gemfile.lock
