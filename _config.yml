@@ -17,8 +17,8 @@ title: Leigh Hackspace CodeClub
 email: CodeClub[at]leighhack.org
 description: > # this means to ignore newlines until "baseurl:"
   Leigh Hackspace Website for Code Club / Code Up Information.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.alexhartley.me/CodeClub/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/CodeClub" # the subpath of your site, e.g. /blog
+url: "http://www.alexhartley.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: leigh_hackspace
 github_username:  Leigh-hackspace
 
